@@ -18,6 +18,18 @@ output.json
 # IntelliJ
 *.iml
 .idea/
+/.idea/caches
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
@@ -31,3 +43,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Mac
+.DS_Store
